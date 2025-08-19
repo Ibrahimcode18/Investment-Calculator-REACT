@@ -6,7 +6,7 @@ import './App.css'
 
 function App() {
   const [userInput, setUserInput] = useState({
-        initialInvestment : 2000,
+        initialInvestment : 5000,
         annualInvestment : 500,
         expectedReturn : 10,
         duration : 5
